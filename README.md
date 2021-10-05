@@ -2,9 +2,9 @@
 This repository implements GCIVR algorithm on 3 tasks. This code is for ICLR submission and review, hence, any reuse outside this review process is prohibited.
 
 ## Getting Started
-To run this code, you need to have PyTorch installed. You can install the requirements for this repo using the `requirement.txt` with:
+To run this code, you need to have PyTorch installed. You can install the requirements for this repo using the `requirements.txt` with:
 ```cli
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 
